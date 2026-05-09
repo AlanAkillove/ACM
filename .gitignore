@@ -1,0 +1,12 @@
+# Obsidian config
+.obsidian/
+
+# Claude Code local settings
+.claude/
+
+# PDF exports
+pdf/
+*.pdf
+
+# Misc / drafts
+杂项/
