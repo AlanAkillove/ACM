@@ -79,7 +79,7 @@
 | 58 | 翻硬币游戏与 Nim 等价性 | 🟡 | [查看](03-博弈论/58-翻硬币游戏与Nim等价性.md) |
 | 59 | 反 Nim 与 Misère 规则 | 🟡 | [查看](03-博弈论/59-反Nim与Misère规则.md) |
 | 60 | 有向无环图（DAG）上的博弈 | 🟡 | [查看](03-博弈论/60-有向无环图（DAG）上的博弈.md) |
-| 61 | 树上删边游戏（Colon Principle） | 🔴 | [查看](03-博弈论/61-树上删边游戏（Colon Principle）.md) |
+| 61 | 树上删边游戏（Colon Principle） | 🔴 | [查看](<03-博弈论/61-树上删边游戏（Colon Principle）.md>) |
 | 62 | Every-SG、Multi-SG 与 Moore's Nim | 🔴 | [查看](03-博弈论/62-Every-SG、Multi-SG与Moore's-Nim.md) |
 | 63 | 不平等博弈与 Surreal Numbers 入门 | 🔴 | [查看](03-博弈论/63-不平等博弈与Surreal-Numbers入门.md) |
 
@@ -110,7 +110,7 @@
 | 79 | Kitamasa 方法与 Bostan-Mori 算法 | 🟡 | [查看](05-线性代数/79-Kitamasa方法与Bostan-Mori算法.md) |
 | 80 | 范德蒙德矩阵与拉格朗日插值 | 🟡 | [查看](05-线性代数/80-范德蒙德矩阵与拉格朗日插值.md) |
 | 81 | 循环矩阵与 Toeplitz 矩阵 | 🔴 | [查看](05-线性代数/81-循环矩阵与Toeplitz矩阵.md) |
-| 82 | 黑盒线性代数（Black Box LA） | 🔴 | [查看](05-线性代数/82-黑盒线性代数（Black Box LA）.md) |
+| 82 | 黑盒线性代数（Black Box LA） | 🔴 | [查看](<05-线性代数/82-黑盒线性代数（Black Box LA）.md>) |
 | 83 | 线性代数综合应用 | 🟣 | [查看](05-线性代数/83-线性代数综合应用.md) |
 
 ## 06-计算几何（16 篇）
