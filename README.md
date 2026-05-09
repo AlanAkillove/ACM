@@ -2,7 +2,7 @@
 
 面向 **CQUE-ACMers 集训队**的全数学板块系统学习材料。覆盖数论、组合数学、博弈论、概率与期望、线性代数、计算几何六大板块，共 **103 篇**，竞赛导向，重推导轻模板。
 
-> **阅读建议：** 本系列含大量 LaTeX 数学公式，建议使用 [Obsidian](https://obsidian.md)、Typora 或 VSCode（配合 Markdown+Math 插件）阅读以获得最佳渲染效果。GitHub 网页端不支持 LaTeX 渲染。
+> **阅读建议：** 本系列含大量 LaTeX 数学公式，建议使用 [Obsidian](https://obsidian.md)、Typora 或 VSCode（配合 Markdown+Math 插件）阅读以获得最佳渲染效果。
 
 ## 目录
 
@@ -54,6 +54,16 @@
 - **[Claude (Anthropic)](https://www.anthropic.com)** — 提供结构设计、审校与多轮迭代优化
 
 本仓库由 AI 辅助完成 Git 管理与自动化维护。
+
+## 参与贡献
+
+欢迎 CQUE-ACMers 及其他同学共同完善本系列：
+
+- **发现笔误、推导错误或死链？** 提交 [Issue](https://github.com/AlanAkillove/ACM/issues) 反馈
+- **有更好的例题或证明思路？** 欢迎提 Pull Request
+- **对内容编排有建议？** 可以在 Issue 中讨论，或直接在 Discussions 中交流
+
+每一份反馈都能让这份材料变得更好。
 
 ---
 
