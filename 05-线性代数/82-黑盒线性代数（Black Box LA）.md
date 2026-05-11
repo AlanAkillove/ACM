@@ -464,9 +464,8 @@ $\kappa$ 是条件数，$m$ 是稀疏矩阵的非零元素个数。
 
 **推荐练习题**：
 
-- [Codeforces 1344D Résumé Review](https://codeforces.com/problemset/problem/1344/D) — 需要黑盒线性递推思想的困难题
+- [Codeforces 1096G Lucky Tickets](https://codeforces.com/problemset/problem/1096/G) — NTT 优化多项式幂运算，黑盒迭代思想
 - [洛谷 P4719 【模板】矩阵树定理](https://www.luogu.com.cn/problem/P4719) — 可以用稀疏矩阵技术求解
-- [Project Euler 816](https://projecteuler.net/problem=816) — 需要高效迭代
 
 ---
 

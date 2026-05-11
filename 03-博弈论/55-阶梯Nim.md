@@ -307,12 +307,10 @@ int main() {
 
 ## 推荐练习题
 
-1. **Codeforces 1382B - Sequential Nim**（分析先手控制权的博弈题，与阶梯 Nim 的「奇偶位置」思想相通）  
-   https://codeforces.com/problemset/problem/1382/B
+1. **POJ 1704 - Georgia and Bob**（阶梯 Nim 经典转化，必做）  
+   http://poj.org/problem?id=1704
 
-2. **Codeforces 173B - "Chamber of Secrets"**（虽然是图论题，但解法涉及阶梯 Nim 思想）
-
-3. **洛谷 P2575 - 高手过招**（阶梯 Nim 变种，每步有模数限制）  
+2. **洛谷 P2575 - 高手过招**（阶梯 Nim 变种，每步有模数限制）  
    https://www.luogu.com.cn/problem/P2575
 
 ## 小结

@@ -370,14 +370,8 @@ int dfs(int u, int p) {
 1. **AGC 017 D - Game on Tree**（树删边 + Colon Principle 直译，必做）
    https://atcoder.jp/contests/agc017/tasks/agc017_d
 
-2. **AGC 017 D - Game on Tree**（树删边 + Colon Principle 直译，必做）
-   https://atcoder.jp/contests/agc017/tasks/agc017_d
-
-3. **AGC 017 D - Game on Tree**（树删边的简单应用，Colon Principle 直译）
-   https://atcoder.jp/contests/agc017/tasks/agc017_d
-
-4. **Codeforces 1382B - Sequential Nim**（虽然不是树，但与 Colon Principle 的递推思想相通）
-   https://codeforces.com/problemset/problem/1382/B
+2. **POJ 3710 - Christmas Game**（树上删边 + Fusion Principle 处理环，必做）
+   http://poj.org/problem?id=3710
 
 ## 小结
 

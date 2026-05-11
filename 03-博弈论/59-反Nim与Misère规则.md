@@ -278,13 +278,7 @@ $[1, 2]$，异或 = 3。标准策略：从堆 2 取到 1（取 1 颗）→ $[1, 
 
 ## 推荐练习题
 
-1. **洛谷 P4279 - [SHOI2008] 小约翰的游戏**（Misère Nim 直译，必做）
-   https://www.luogu.com.cn/problem/P4279
-
-2. **洛谷 P4279 - [SHOI2008] 小约翰的游戏**（Misère Nim 的模板题）
-   https://www.luogu.com.cn/problem/P4279
-
-3. **洛谷 P4279 - [SHOI2008] 小约翰的游戏**（另一道 Misère Nim 经典题，POJ 3480 的同题翻译）
+1. **洛谷 P4279 - [SHOI2008] 小约翰的游戏**（Misère Nim 模板题，必做）
    https://www.luogu.com.cn/problem/P4279
 
 ## 小结

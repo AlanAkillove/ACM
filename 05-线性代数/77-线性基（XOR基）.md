@@ -244,9 +244,8 @@ struct LinearBasis {
 
 **推荐练习题**：
 
-- [洛谷 P3812 【模板】线性基](https://www.luogu.com.cn/problem/P3812) — 线性基求最大异或和
-- [洛谷 P3812 【模板】线性基](https://www.luogu.com.cn/problem/P3812) — 线性基求最大异或和与第 k 小异或和（HDU 3949 同源题）
-- [Codeforces 1101F Trucks and Cities](https://codeforces.com/problemset/problem/1101/F) — 线性基的二分+合并应用
+- [洛谷 P3812 【模板】线性基](https://www.luogu.com.cn/problem/P3812) — 线性基求最大异或和与第 k 小异或和
+- [洛谷 P4570 [BJWC2011] 元素](https://www.luogu.com.cn/problem/P4570) — 线性基的贪心应用，最大异或独立集
 
 ---
 

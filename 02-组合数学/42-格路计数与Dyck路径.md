@@ -64,7 +64,7 @@ $n$ 个球放入 $m$ 个盒，按「球同/异」「盒同/异」「是否可空
 
 - [洛谷 P1641](https://www.luogu.com.cn/problem/P1641) — 生成字符串。Dyck 路径 + 卡特兰
 - [Codeforces 559C](https://codeforces.com/problemset/problem/559/C) — Gerald and Giant Chess。带障碍格路（DP + 容斥）
-- [洛谷 P2398](https://www.luogu.com.cn/problem/P2398) — GCD SUM。格路 + 数论的交叉题
+- [洛谷 P4478](https://www.luogu.com.cn/problem/P4478) — [BJWC2018] 上学路线。大范围带障碍格路计数，组合数 + 容斥 + Lucas/CRT
 
 ---
 

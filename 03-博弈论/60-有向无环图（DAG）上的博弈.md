@@ -390,10 +390,7 @@ int main() {
 2. **洛谷 P2575 - 高手过招**（DAG 上的多棋子 SG 函数，思路相通）
    https://www.luogu.com.cn/problem/P2575
 
-3. **Codeforces 917B - MADMAX**（DAG 博弈 + 带附加状态，可替代 POJ 2599）
-   https://codeforces.com/problemset/problem/917/B
-
-4. **AtCoder ABC 255 G - Constrained Nim**（DAG 上 SG 的优化计算）
+3. **AtCoder ABC 255 G - Constrained Nim**（DAG 上 SG 的优化计算）
    https://atcoder.jp/contests/abc255/tasks/abc255_g
 
 ## 小结

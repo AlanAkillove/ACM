@@ -403,16 +403,11 @@ int main() {
 
 ## 推荐练习题
 
-1. **洛谷 P4279 - [SHOI2008] 小约翰的游戏**（反 Nim 经典题，理解"全 1"与"有大堆"的区别）
-   https://www.luogu.com.cn/problem/P4279
+1. **HDU 3595 - GG Game**（Every-SG 经典题，欧几里得游戏的 Every-SG 版本，需要计算 step 值）
+   https://acm.hdu.edu.cn/showproblem.php?pid=3595
 
-2. **Codeforces 1382B - Sequential Nim**（Multi-SG 思想，分裂为子游戏）
-   https://codeforces.com/problemset/problem/1382/B
-
-3. **BZOJ 1876 - [SDOI2009] SuperGCD**（Moore's Nim 思想）
-
-4. **洛谷 P2197 - 【模板】nim 游戏**（Nim 模板，理解异或和判定）
-   https://www.luogu.com.cn/problem/P2197
+2. **POJ 3537 - Crosses and Crosses**（Multi-SG 经典题，一维井字棋分裂游戏）
+   http://poj.org/problem?id=3537
 
 ## 小结
 

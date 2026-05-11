@@ -461,8 +461,6 @@ int main() {
 2. **洛谷 P4707 - 重返现世**：k-th Min-Max 容斥 + DP 优化的综合题。
    - 链接：https://www.luogu.com.cn/problem/P4707
 
-3. **洛谷 P4707 - 重返现世**：随机游走覆盖问题，Min-Max 容斥 + 概率 DP。
-
 ---
 
 ## 8. 小结

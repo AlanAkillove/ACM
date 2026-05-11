@@ -514,7 +514,7 @@ Kitamasa 的空间优势也很明显：只需要 $O(k)$ 存储多项式系数，
 
 - [洛谷 P4723 【模板】线性递推](https://www.luogu.com.cn/problem/P4723) — Kitamasa 模板题，求第 $n$ 项
 - [Codeforces 1344D Résumé Review](https://codeforces.com/problemset/problem/1344/D) — 结合牛顿法的困难题，穿插递推求值
-- [Project Euler 700](https://projecteuler.net/problem=700) — 通用生成函数问题
+- [Codeforces 712E Memory and Casinos](https://codeforces.com/problemset/problem/712/E) — 线性递推在随机游走概率中的经典应用
 
 ---
 
