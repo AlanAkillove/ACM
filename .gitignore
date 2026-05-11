@@ -10,3 +10,11 @@ pdf/
 
 # Misc / drafts
 杂项/
+
+# VS Code local config
+.vscode/
+
+# Scratch / draft code
+caogao.cpp
+caogao.py
+caogao.exe
